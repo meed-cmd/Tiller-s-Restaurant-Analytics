@@ -27,7 +27,8 @@ Data range: from 22/10/2015 to 18/4/2020.
    *  BigQuery: update and transform the data
    *  Power Bi: create the dashboard.
 # Dashboard
-[Tiller_1513_final.pdf](https://github.com/meed-cmd/Tiller-s-Restaurant-Analytics/files/15111585/Tiller_1513_final.pdf)
+![1714055649819-4cb72e55-112a-434e-ac91-7f7dccb3f664_1](https://github.com/meed-cmd/Tiller-s-Restaurant-Analytics/assets/158777672/edba3058-b123-4e13-bd06-28fe6f2f2607)
+
 
 
  

@@ -29,6 +29,16 @@ Data range: from 22/10/2015 to 18/4/2020.
 # Dashboard
 ![1714055649819-4cb72e55-112a-434e-ac91-7f7dccb3f664_1](https://github.com/meed-cmd/Tiller-s-Restaurant-Analytics/assets/158777672/edba3058-b123-4e13-bd06-28fe6f2f2607)
 
+![1714055649819-4cb72e55-112a-434e-ac91-7f7dccb3f664_2](https://github.com/meed-cmd/Tiller-s-Restaurant-Analytics/assets/158777672/3b0db717-e722-4bda-a9cd-01ae0c8d4249)
+
+![1714055649819-4cb72e55-112a-434e-ac91-7f7dccb3f664_3](https://github.com/meed-cmd/Tiller-s-Restaurant-Analytics/assets/158777672/7b84a3b1-a7bb-499d-adad-e634f3d015c8)
+
+![1714055649819-4cb72e55-112a-434e-ac91-7f7dccb3f664_4](https://github.com/meed-cmd/Tiller-s-Restaurant-Analytics/assets/158777672/fd8caae4-93b4-4c99-8852-c0533f3a4c17)
+
+
+
+
+
 
 
  

@@ -40,6 +40,7 @@ Data range: from 22/10/2015 to 18/4/2020.
 *  [meed-cmd](https://www.github.com/meed-cmd)
 *  [AzzahGabel](https://www.github.com/AzzahGabel)
 *  [Amjad48](https://www.github.com/Amjad48)
+*  [Wardah-Albassami](https://www.github.com/Wardah-Albassami)
 *  [Rmoqayli](https://www.github.com/Rmoqayli)
 
  

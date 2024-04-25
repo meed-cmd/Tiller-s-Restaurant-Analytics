@@ -36,10 +36,11 @@ Data range: from 22/10/2015 to 18/4/2020.
 ![1714055649819-4cb72e55-112a-434e-ac91-7f7dccb3f664_4](https://github.com/meed-cmd/Tiller-s-Restaurant-Analytics/assets/158777672/fd8caae4-93b4-4c99-8852-c0533f3a4c17)
 
 
-# contributors
+# Contributors
 *  [meed-cmd](https://www.github.com/meed-cmd)
 *  [AzzahGabel](https://www.github.com/AzzahGabel)
 *  [Amjad48](https://www.github.com/Amjad48)
+*  [Wardah-Albassami](https://www.github.com/Wardah-Albassami)
 
  
 
